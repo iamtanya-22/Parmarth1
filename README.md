@@ -8,9 +8,9 @@ This idea comes from a very personal space for us, as seeing the plight of peopl
 
 ## Deployment
 
-Deployment made using Github Pages
+Deployment made using Netlify
 
-- Hosted Link: 
+- Hosted Link: https://parmarth.netlify.app/
 
 
 ## 🚀 Quick Start :
