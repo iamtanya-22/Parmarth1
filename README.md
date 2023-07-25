@@ -6,12 +6,6 @@ Parmarth is a project that aims to provide employment opportunities for people w
 This idea comes from a very personal space for us, as seeing the plight of people with being unable to express themselves in the corporate world is very saddening; there are not a lot of resources for the same.
 <br>
 
-## Deployment
-
-Deployment made using Netlify
-
-- Hosted Link: https://parmarth.netlify.app/
-
 
 ## 🚀 Quick Start :
 
